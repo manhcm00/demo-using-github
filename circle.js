@@ -11,4 +11,8 @@ Circle.prototype.isOverlapped = function(cricle) {
     return 1;
   }
 
+  Circle.prototype.new() {
+    
+  }
+
   module.exports = Circle;
