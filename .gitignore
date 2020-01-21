@@ -1,0 +1,7 @@
+node_modules/@types
+node_modules/ansi-styles
+node_modules/chalk
+node_modules/color-convert
+node_modules/color-name
+node_modules/has-flag
+node_modules/supports-color
